@@ -1,2 +1,2 @@
-# Tableau-Power-BI-Dashboards
-Containing datasets and dashboards using Tableau and Power BI
+This repository contains the dashboards created using Tableau or Microsoft Power BI.
+The 'Datasets' folder contains the datasets used for creating the dashboards.
